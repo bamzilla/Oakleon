@@ -1,0 +1,10 @@
+{
+	"name": "react-song-rate",
+	"dependencies": {
+		"react": "0.12.2",
+		"bootstrap": "3.3.1",
+		"lodash": "2.4.1",
+		"underscore.string": "2.4.0",
+		"font-awesome": "4.2.0"
+	}
+}
